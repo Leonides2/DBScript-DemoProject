@@ -1,5 +1,5 @@
 
-# DemoBackend
+# DBScript-DemoProject
 
 This project is part of the demostration of my knowledge in `C#`, `TS` and `SQL`.
 
